@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Orbitron:wght@500&family=Poppins:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap');
 
 *{
     position: relative;
@@ -78,7 +79,7 @@ body{
 }
 .hero1,.hero2{
     font-size: 205px;
-    font-family: "Poppins', sans-serif";
+    font-family:"Merriweather";
     font-weight: 900;
 }
 .hero1{
@@ -86,6 +87,7 @@ body{
     top:-1250px;
     color: #fcf8f6;
     font-weight: 900;
+    
 }
 .hero2{
     left:400px;
@@ -93,7 +95,7 @@ body{
 }
 .hero3{
     font-size: 40px;
-    left:880px;
+    left:970px;
     top:-1745px;
     font-family: "Poppins', sans-serif";
     font-weight: 80;
